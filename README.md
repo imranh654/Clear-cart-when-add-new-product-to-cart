@@ -1,0 +1,1 @@
+# Clear-cart-when-add-new-product-to-cart
